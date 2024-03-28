@@ -8,8 +8,8 @@ Driven by a passion for problem-solving and a love for technology, I am looking 
 
 ## Projects 📂
 
-1. **Placeholder for Project 1**
-   - Placeholder for description of project 1
+1. **Matrix Calculator**
+   - A matrix calculator that performs basic operations on user-inputed matrices 
    - *Link to repository*
 
 2. **Placeholder for Project 2**
