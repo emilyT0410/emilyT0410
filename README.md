@@ -10,7 +10,7 @@ Driven by a passion for problem-solving and a love for technology, I am looking 
 
 1. **Matrix Calculator**
    - A matrix calculator that performs basic operations on user-inputed matrices 
-   - *Link to repository*
+   - https://github.com/emilyT0410/Portfolio/blob/main/Portfolio_1.py
 
 2. **Placeholder for Project 2**
    - Placeholder for description of project 2
