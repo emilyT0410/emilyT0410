@@ -18,10 +18,10 @@ Driven by a passion for problem-solving and a love for technology, I am looking 
   
 3. **Task Manager**
    - A simple task manager application where the logged in user can add tasks to a task list, delete and mark as complete
-   - *Link to repository*
+   - https://github.com/emilyT0410/Portfolio/tree/master
   
-## Skills 🧰
-* Programming languages: Python
+## Tech Stack 🧰
+* Python, SQL, Django, CSS, HTML
 
 ## Education 📚
 **Cardiff University**
